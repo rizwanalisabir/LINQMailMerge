@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Error";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="jumbotron text-xs-center">
+    <h1 class="display-3">Error</h1>
+    <p class="lead"><strong>Some error was occured while sending newsletters.</strong> @ViewBag.Message</p>
+    <hr>
+    <p class="lead">
+        <a class="btn btn-primary btn-sm" href="/MailMerger/About" role="button">Continue to homepage</a>
+    </p>
+</div>
+
+

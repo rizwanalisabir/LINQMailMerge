@@ -1,0 +1,118 @@
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\ApplicationInsights.config
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\csc.exe
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\System.Collections.Immutable.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\vbc.exe
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\VBCSCompiler.exe
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\roslyn\VBCSCompiler.exe.config
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\LINQMailMerge.dll.config
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\LINQMailMerge.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\LINQMailMerge.pdb
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Antlr3.Runtime.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Aspose.Words.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.Web.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.WindowsServer.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.ApplicationInsights.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.Web.Infrastructure.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Newtonsoft.Json.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.Helpers.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.Mvc.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.Optimization.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.Razor.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.Deployment.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.Razor.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\WebGrease.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Aspose.Words.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.Web.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.WindowsServer.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.ApplicationInsights.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.Helpers.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.Mvc.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.Optimization.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.Razor.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.Deployment.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.Razor.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Antlr3.Runtime.pdb
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\Newtonsoft.Json.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\obj\Debug\LINQMailMerge.csprojResolveAssemblyReference.cache
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\obj\Debug\LINQMailMerge.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\obj\Debug\LINQMailMerge.pdb
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\EntityFramework.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\EntityFramework.SqlServer.dll
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\EntityFramework.xml
+c:\users\originatorclient2\documents\visual studio 2015\Projects\LINQMailMerge\LINQMailMerge\bin\EntityFramework.SqlServer.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\ApplicationInsights.config
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\csc.exe
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\System.Collections.Immutable.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\vbc.exe
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\VBCSCompiler.exe
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\roslyn\VBCSCompiler.exe.config
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\LINQMailMerge.dll.config
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\LINQMailMerge.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\LINQMailMerge.pdb
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Antlr3.Runtime.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Aspose.Words.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\EntityFramework.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\EntityFramework.SqlServer.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.DependencyCollector.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.Web.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.WindowsServer.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.ApplicationInsights.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.Web.Infrastructure.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Newtonsoft.Json.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.Helpers.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.Mvc.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.Optimization.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.Razor.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.Deployment.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.Razor.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\WebGrease.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Aspose.Words.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\EntityFramework.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\EntityFramework.SqlServer.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.DependencyCollector.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.Web.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.AI.WindowsServer.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.ApplicationInsights.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.Helpers.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.Mvc.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.Optimization.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.Razor.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.Deployment.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\System.Web.WebPages.Razor.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Antlr3.Runtime.pdb
+D:\Aspose\LINQMailMerge\LINQMailMerge\bin\Newtonsoft.Json.xml
+D:\Aspose\LINQMailMerge\LINQMailMerge\obj\Debug\LINQMailMerge.csprojResolveAssemblyReference.cache
+D:\Aspose\LINQMailMerge\LINQMailMerge\obj\Debug\LINQMailMerge.dll
+D:\Aspose\LINQMailMerge\LINQMailMerge\obj\Debug\LINQMailMerge.pdb
