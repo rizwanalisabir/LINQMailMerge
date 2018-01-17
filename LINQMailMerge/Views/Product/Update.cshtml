@@ -1,0 +1,47 @@
+﻿@model LINQMailMerge.Models.ProductInformation
+@{
+    ViewBag.Title = "Update product information";
+}
+
+<div class="jumbotron">
+    <h4>Update product</h4>
+</div>
+<div class="container">
+    <div class="row">
+        <form action="~/Product/Update" method="post">
+            <div class="form-group col-md-12">
+                <label for="company">Company name</label>
+                <input type="text" class="form-control" id="company" name="company" placeholder="Company Name" value="@Model.LetterFrom" required>
+            </div>
+            <div class="form-group col-md-12">
+                <label for="senderdesignation">Sender designation</label>
+                <input type="text" class="form-control" id="senderdesignation" name="senderdesignation" placeholder="Company Name" value="@Model.SenderDesignation" required>
+            </div>
+
+            <div class="form-group col-md-12">
+                <label for="date">Letter send date</label>
+                <input type="datetime" class="form-control" id="date" name="date" value="@Model.SentDate" required>
+            </div>
+            <div class="form-group col-md-12">
+                <label for="txtProductName">Product name</label>
+                <input type="text" class="form-control" id="txtProductName" name="productname" placeholder="Product Name" value="@Model.ProductName" required>
+            </div>
+            <div class="form-group col-md-12">
+                <label for="txtareaDescription">Product description</label>
+                <textarea class="form-control" id="txtareaDescription" name="productdescription" placeholder="Product Description" required>@Model.ProductDescription</textarea>
+            </div>
+            <div class="form-group col-md-12">
+                <button type="submit" class="btn btn-primary">Update</button>
+                <a href="/MailMerger/Template" class="btn btn-primary">Send newsletters</a>
+            </div>
+        </form>
+    </div>
+</div>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $(document).ready(function () {
+        if ('@ViewBag.Message'!='') {
+            alert('@ViewBag.Message');
+        }
+    });
+</script>
